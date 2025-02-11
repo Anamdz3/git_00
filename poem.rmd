@@ -14,13 +14,50 @@ Our project will be done using several commits to the master branch.
 you, if you change any of this the git program will notice it and compromise your git merging strategy !-->
 
 ## First Verse 
-<!--Put the first five lines of a poem by Lewis Carrol in this section!-->
+<!--"Just the place for a Snark!" the Bellman cried,
+   As he landed his crew with care;
+Supporting each man on the top of the tide
+   By a finger entwined in his hair.
+"Just the place for a Snark! I have said it twice!-->
 
 ## Second Verse
-<!--Put the first five lines of a poem by Robert Frost here!-->
+<!--Before man came to blow it right
+     The wind once blew itself untaught,
+And did its loudest day and night
+     In any rough place where it caught.
+Man came to tell it what was wrong!-->
 
 ## Third Verse
-<!--Put the first two verses of The Walrus and the Carpenter here!-->
+<!--"The sun was shining on the sea,
+      Shining with all his might:
+He did his very best to make
+      The billows smooth and bright —
+And this was odd, because it was
+      The middle of the night.
+
+The moon was shining sulkily,
+      Because she thought the sun
+Had got no business to be there
+      After the day was done —
+"It's very rude of him," she said,
+      "To come and spoil the fun."!-->
 
 ## Last Verse
-<!--Put a short poem of your choice 8-20 lines,here!-->
+<!--If I should die,
+And you should live,
+And time should gurgle on,
+And morn should beam,
+And noon should burn,
+As it has usual done;
+If birds should build as early,
+And bees as bustling go,–
+One might depart at option
+From enterprise below!
+‘Tis sweet to know that stocks will stand
+When we with daisies lie,
+That commerce will continue,
+And trades as briskly fly.
+It make the parting tranquil
+And keeps the soul serene,
+That gentlemen so sprightly
+Conduct the pleasing scene!-->
